@@ -1,2 +1,3 @@
 # hello-world
-My first depository
+My first repository
+Corrected a typo in the repo name: repository instead of depository.
